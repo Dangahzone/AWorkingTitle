@@ -1,0 +1,44 @@
+{
+    "#back": {
+      "misc": {
+        "shape": "rounded_rectangle",
+        "shape_corner_radius": "18",
+        "border_width": "1",
+        "shadow_width": "2"
+      }
+      
+    },
+    "#new_game": {
+      "misc": {
+        "shape": "rounded_rectangle",
+        "shape_corner_radius": "18",
+        "border_width": "1",
+        "shadow_width": "2"
+      }
+    },
+    "#load_game": {
+      "misc": {
+        "shape": "rounded_rectangle",
+        "shape_corner_radius": "18",
+        "border_width": "1",
+        "shadow_width": "2"
+      }
+    },
+    "#settings": {
+      "misc": {
+        "shape": "rounded_rectangle",
+        "shape_corner_radius": "18",
+        "border_width": "1",
+        "shadow_width": "2"
+      }
+    },
+    "#quit": {
+      "misc": {
+        "shape": "rounded_rectangle",
+        "shape_corner_radius": "18",
+        "border_width": "1",
+        "shadow_width": "2"
+      }
+    }
+  }
+  
